@@ -1,0 +1,11 @@
+C:\Users\shaker\OneDrive\سطح المكتب\Eid GUI\Eid GUI\bin\Debug\Eid GUI.exe.config
+C:\Users\shaker\OneDrive\سطح المكتب\Eid GUI\Eid GUI\bin\Debug\Eid GUI.exe
+C:\Users\shaker\OneDrive\سطح المكتب\Eid GUI\Eid GUI\bin\Debug\Eid GUI.pdb
+C:\Users\shaker\OneDrive\سطح المكتب\Eid GUI\Eid GUI\obj\Debug\Eid GUI.csproj.AssemblyReference.cache
+C:\Users\shaker\OneDrive\سطح المكتب\Eid GUI\Eid GUI\obj\Debug\Eid_GUI.Form1.resources
+C:\Users\shaker\OneDrive\سطح المكتب\Eid GUI\Eid GUI\obj\Debug\Eid_GUI.Properties.Resources.resources
+C:\Users\shaker\OneDrive\سطح المكتب\Eid GUI\Eid GUI\obj\Debug\Eid GUI.csproj.GenerateResource.cache
+C:\Users\shaker\OneDrive\سطح المكتب\Eid GUI\Eid GUI\obj\Debug\Eid GUI.csproj.CoreCompileInputs.cache
+C:\Users\shaker\OneDrive\سطح المكتب\Eid GUI\Eid GUI\obj\Debug\Eid GUI.exe
+C:\Users\shaker\OneDrive\سطح المكتب\Eid GUI\Eid GUI\obj\Debug\Eid GUI.pdb
+C:\Users\shaker\OneDrive\سطح المكتب\Eid GUI\Eid GUI\obj\Debug\Eid_GUI.Form2.resources
